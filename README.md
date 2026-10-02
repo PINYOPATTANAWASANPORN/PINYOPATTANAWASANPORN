@@ -8,6 +8,14 @@ Specialized in **Full-Stack Web Development, Resilient Data Extraction Pipelines
 
 ---
 
+### 🏆 Tier-1 Core Merged Contributions
+- 🟢 **[directus/directus](https://github.com/directus/directus/pull/28308)** (32k★) - Normalized MySQL DOW SQL translation & Geometry subtype GraphQL filtering.
+- 🟢 **[twentyhq/twenty](https://github.com/twentyhq/twenty/pull/26544)** (30k★) - Throttled session-scoped application token renewal rate limiting.
+- 🟢 **[medusajs/medusa](https://github.com/medusajs/medusa/pull/17061)** (28k★) - Dynamic country display name rendering in Admin Dashboard.
+- 🟢 **[appwrite/appwrite](https://github.com/utopia-php/database/pull/979)** (45k★) - Cascading relation query & non-null guards on database engine.
+
+---
+
 ### 🚀 Core Engineering & Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, C# (.NET 9), Swift, Go, SQL, HTML5/CSS3.
 - **Frontend & Frameworks:** React, Next.js, TailwindCSS, WAI-ARIA Accessible UI, WPF / WinUI 3.
