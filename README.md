@@ -1,6 +1,6 @@
 # Hi there, I'm Pinyo Pattanawasanporn 👋
 
-**Open-Source Software Engineer & Automation Architect**  
+**Civil & Structural Engineer 🏗️ | Full-Stack AI & Open-Source Software Architect ⚡**
 Specialized in **Full-Stack Web Development, Resilient Data Extraction Pipelines, Cloud APIs, and High-Performance Agent Systems**.
 
 [![GitHub followers](https://img.shields.io/github/followers/PINYOPATTANAWASANPORN?style=social)](https://github.com/PINYOPATTANAWASANPORN)
