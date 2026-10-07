@@ -1,51 +1,116 @@
 # Hi there, I'm Pinyo Pattanawasanporn 👋
 
-**Civil & Structural Engineer 🏗️ | Full-Stack AI & Open-Source Software Architect ⚡**
-Specialized in **Full-Stack Web Development, Resilient Data Extraction Pipelines, Cloud APIs, and High-Performance Agent Systems**.
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/PINYOPATTANAWASANPORN?style=social)](https://github.com/PINYOPATTANAWASANPORN)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PINYOPATTANAWASANPORN)
+### **Civil & Structural Engineer 🏗️ | Full-Stack AI & Open-Source Software Architect ⚡**
 
----
+[![GitHub followers](https://img.shields.io/github/followers/PINYOPATTANAWASANPORN?style=for-the-badge&logo=github&color=007ACC)](https://github.com/PINYOPATTANAWASANPORN)
+[![Open Source Contributions](https://img.shields.io/badge/Open_Source-50%2B_PRs_Merged-brightgreen?style=for-the-badge&logo=github)](https://github.com/PINYOPATTANAWASANPORN)
+[![Location](https://img.shields.io/badge/Location-Bangkok%2C_Thailand_🇹🇭-orange?style=for-the-badge)](#-contact--connect)
 
-### 🏆 Tier-1 Core Merged Contributions
-- 🟢 **[directus/directus](https://github.com/directus/directus/pull/28308)** (32k★) - Normalized MySQL DOW SQL translation & Geometry subtype GraphQL filtering.
-- 🟢 **[twentyhq/twenty](https://github.com/twentyhq/twenty/pull/26544)** (30k★) - Throttled session-scoped application token renewal rate limiting.
-- 🟢 **[medusajs/medusa](https://github.com/medusajs/medusa/pull/17061)** (28k★) - Dynamic country display name rendering in Admin Dashboard.
-- 🟢 **[appwrite/appwrite](https://github.com/utopia-php/database/pull/979)** (45k★) - Cascading relation query & non-null guards on database engine.
+</div>
 
 ---
 
-### 🚀 Core Engineering & Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, C# (.NET 9), Swift, Go, SQL, HTML5/CSS3.
-- **Frontend & Frameworks:** React, Next.js, TailwindCSS, WAI-ARIA Accessible UI, WPF / WinUI 3.
-- **Backend & Systems:** NestJS, FastAPI, Node.js, TypeORM, RESTful APIs, SQLite, PostgreSQL, Redis.
-- **DevOps & Verification:** GitHub Actions CI/CD, Vitest, Jest, Pytest, Docker, Strict Zero-Regression Testing.
-- **Data & Automation:** High-speed Scraping, Headless Browser Automation, B2B Sales Intelligence, ETL Pipelines.
+## 🌟 Executive Summary
+
+Hybrid engineering professional combining **Civil & Structural Engineering** domain mastery with **Advanced Full-Stack Software Engineering & AI Systems Architecture**.
+
+- 🏗️ **Civil & Structural Engineering:** Reinforced Concrete (RC) & Steel Structural Design, Finite Element Analysis (FEA), BIM Workflows, BOQ Cost Estimation, Structural Optimization & CAD Automation.
+- 💻 **Software & Systems Architecture:** Production SaaS, High-Performance Microservices, Multi-Engine Data Pipelines, Web3 Escrow Infrastructure, and AI Agentic Workflows.
+- 🚀 **Tier-1 Open Source Contributor:** Merged PRs & core fixes across leading developer platforms (*LocalAI, Cal.com, Novu, Open-WebUI, Payload CMS, Directus, ToolJet, Activepieces, Twenty, MergeFi*).
 
 ---
 
-### 🏆 Key Open-Source Contributions & Production Deliverables
-- **[BasedHardware/omi](https://github.com/BasedHardware/omi)**: AI Wearables & App hardening, OpenAI payload guarding, API v2 memory integration, and multi-language documentation.
-- **[TypeWhisper Desktop AI](https://github.com/TypeWhisper)**: Native macOS (Swift) and Windows (.NET 9) voice dictation hardening, engine capabilities acceleration filtering, Polar API version stability, and Keychain credential protection.
-- **[MergeFi Escrow Platform](https://github.com/MergeFi)**: Soroban / Stellar Web3 Escrow architecture, atomic transaction guards, database indexing performance tuning, and WAI-ARIA keyboard accessibility suites.
+## 🏗️ Civil & Structural Engineering Core
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Structural_Concrete_Design-RC_Structures-B03A2E?style=flat-square" alt="RC Design"/>
+  <img src="https://img.shields.io/badge/Structural_Steel_Design-Steel_Frames-1F618D?style=flat-square" alt="Steel Design"/>
+  <img src="https://img.shields.io/badge/FEA-Finite_Element_Analysis-27AE60?style=flat-square" alt="FEA"/>
+  <img src="https://img.shields.io/badge/BIM_%26_CAD-Automation_%26_Solvers-D4AC0D?style=flat-square" alt="BIM CAD"/>
+  <img src="https://img.shields.io/badge/BOQ-Cost_Estimation_%26_Analytics-8E44AD?style=flat-square" alt="BOQ"/>
+</div>
+
+- **Structural Design & Analysis:** Safe, efficient structural sizing for Reinforced Concrete (RC) and Structural Steel elements adhering to building codes & engineering standards.
+- **Computational Engineering & Parametric Modeling:** Integrating numerical methods, geometric solvers, and custom CAD scripting for structural integrity verification.
+- **Project Estimation & Engineering Data:** Construction BOQ generation, automated quantity surveying, cost optimization models, and project scheduling pipelines.
 
 ---
 
-### 💳 Official Payout & Direct Verification Channels
-To ensure zero-fraud and transparent settlement for bounties, client engagements, and sponsorship:
+## 💻 Technical & Software Engineering Stack
 
-| Method | Details |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🌐 Frontend & UI</h4>
+      <ul>
+        <li>TypeScript / JavaScript (ESNext)</li>
+        <li>React / Next.js / Vite</li>
+        <li>TailwindCSS / Glassmorphism UI</li>
+        <li>WAI-ARIA Accessibility Standards</li>
+        <li>WPF / WinUI 3 (.NET 9)</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Backend & Infrastructure</h4>
+      <ul>
+        <li>Node.js / NestJS / Express</li>
+        <li>Python / FastAPI / Pytest</li>
+        <li>C# (.NET 9) / Swift / Go / Rust</li>
+        <li>PostgreSQL / MySQL / SQLite / Redis</li>
+        <li>Soroban / Stellar Web3 Escrow</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 AI & Data Systems</h4>
+      <ul>
+        <li>Google Antigravity Agent SDK</li>
+        <li>Gemini API & Multi-Modal Pipelines</li>
+        <li>High-Speed Web Data Scraping & ETL</li>
+        <li>Docker / CI/CD GitHub Actions</li>
+        <li>Zero-Defect Surgical PR Testing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Selected Open-Source Contributions & System Architecture
+
+- 🌐 **[calcom/cal.diy](https://github.com/calcom/cal.diy):** Resolved Booker Column View alignment across complete calendar weeks and recurring occurrence booking limits.
+- ⚡ **[novuhq/novu](https://github.com/novuhq/novu):** Extended multi-channel notification engine with inline email attachments (`cid`) & query tag array parser overflow guards.
+- 🛠️ **[open-webui/open-webui](https://github.com/open-webui/open-webui):** Implemented interactive chat header archive/unarchive state management and dynamic UI notifications.
+- 📦 **[payloadcms/payload](https://github.com/payloadcms/payload):** Enforced e-commerce unnested variant stock validation in payment initiation workflows.
+- 🗄️ **[directus/directus](https://github.com/directus/directus):** Standardized MySQL `WEEKDAY()` SQL translation parity for cross-database data engine stability.
+- 🤖 **[mudler/LocalAI](https://github.com/mudler/LocalAI):** Implemented application-wide context fallback resolution in `/v1/models/capabilities` (shipped in v4.11.0 release).
+- ⛓️ **[MergeFi/backend](https://github.com/MergeFi/backend):** Engineered Stellar Soroban Web3 escrow transaction safety, identity verification split releases, and transactional database updates.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PINYOPATTANAWASANPORN&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PINYOPATTANAWASANPORN&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</div>
+
+---
+
+## 📬 Contact & Professional Connect
+
+Available for **Civil Engineering Consulting**, **Software Engineering Projects**, **Full-Stack Application Development**, and **Automated Data Solutions**.
+
+| Channel | Details |
 | :--- | :--- |
-| **PayPal Direct** | [`paypal.me/PINYOPATT`](https://paypal.me/PINYOPATT) |
-| **PayPal Email** | `pattanawasanporn@gmail.com` |
-| **Bank Transfer (THB)** | **Bangkok Bank (BBL):** `0248099830` |
-| **SWIFT Code** | `BKKBTHBK` (Bangkok Bank) |
-| **EVM / Crypto (USDC / USDT)** | `0x03486ce5A81c2BBedCf7c33A5f035f637cf6d4bF` |
+| **Email** | [`pattanawasanporn@gmail.com`](mailto:pattanawasanporn@gmail.com) |
+| **GitHub** | [@PINYOPATTANAWASANPORN](https://github.com/PINYOPATTANAWASANPORN) |
+| **Location** | Bangkok, Thailand 🇹🇭 *(Available for global remote contracts & hybrid engineering)* |
+| **Services** | Civil & Structural Design • SaaS/Web Development • Data Scraping & ETL • AI & Web3 Integration |
 
 ---
 
-### 📬 Connect with Me
-- **GitHub:** [@PINYOPATTANAWASANPORN](https://github.com/PINYOPATTANAWASANPORN)
-- **Email:** `pattanawasanporn@gmail.com`
-- **Location:** Bangkok, Thailand 🇹🇭 (Available for global remote contracts & async engagements)
+<div align="center">
+  <sub>Building resilient physical structures and high-performance digital systems.</sub>
+</div>
