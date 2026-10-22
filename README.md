@@ -5,7 +5,7 @@
 ### **Civil & Structural Engineer 🏗️ | Full-Stack AI & Open-Source Software Architect ⚡**
 
 [![GitHub followers](https://img.shields.io/github/followers/PINYOPATTANAWASANPORN?style=for-the-badge&logo=github&color=007ACC)](https://github.com/PINYOPATTANAWASANPORN)
-[![Open Source Contributions](https://img.shields.io/badge/Open_Source-50%2B_PRs_Merged-brightgreen?style=for-the-badge&logo=github)](https://github.com/PINYOPATTANAWASANPORN)
+[![Open Source Contributions](https://img.shields.io/badge/Open_Source-75%2B_Contributions_Merged-brightgreen?style=for-the-badge&logo=github)](https://github.com/PINYOPATTANAWASANPORN)
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C_Thailand_🇹🇭-orange?style=for-the-badge)](#-contact--connect)
 
 </div>
@@ -18,7 +18,7 @@ Hybrid engineering professional combining **Civil & Structural Engineering** dom
 
 - 🏗️ **Civil & Structural Engineering:** Reinforced Concrete (RC) & Steel Structural Design, Finite Element Analysis (FEA), BIM Workflows, BOQ Cost Estimation, Structural Optimization & CAD Automation.
 - 💻 **Software & Systems Architecture:** Production SaaS, High-Performance Microservices, Multi-Engine Data Pipelines, Web3 Escrow Infrastructure, and AI Agentic Workflows.
-- 🚀 **Tier-1 Open Source Contributor:** Merged PRs & core fixes across leading developer platforms (*LocalAI, Cal.com, Novu, Open-WebUI, Payload CMS, Directus, ToolJet, Activepieces, Twenty, MergeFi*).
+- 🚀 **Tier-1 Open Source Contributor:** Merged PRs & core fixes across leading developer platforms & engines (*pdfcraft, LiteLLM, BasedHardware, LocalAI, Cal.com, Novu, Open-WebUI, Payload CMS, Directus, ToolJet, Activepieces, Twenty, MergeFi*).
 
 ---
 
@@ -79,6 +79,9 @@ Hybrid engineering professional combining **Civil & Structural Engineering** dom
 
 ## 🏆 Selected Open-Source Contributions & System Architecture
 
+- 🦀 **[storytold/pdfcraft](https://github.com/storytold/pdfcraft):** Implemented Unicode font appearance pipeline bundling Inter Regular (`/Identity-H` CMap) in Rust PDF engine to render Central European & international characters in visible signatures ([PR #1679](https://github.com/storytold/pdfcraft/pull/1679)).
+- 🤖 **[BerriAI/litellm](https://github.com/BerriAI/litellm):** Fixed numbered PII token corruption across overlapping Microsoft Presidio entity spans in production LLM gateway ([PR #47024](https://github.com/BerriAI/litellm/pull/47024)).
+- 🎧 **[BasedHardware/omi](https://github.com/BasedHardware/omi):** Wearable AI OS & SDK — engineered audio recorder start failure recovery, WAL memory leak cleanup, and cross-platform language selectors ([PR #20815](https://github.com/BasedHardware/omi/pull/20815), [#21387](https://github.com/BasedHardware/omi/pull/21387), [#22005](https://github.com/BasedHardware/omi/pull/22005)).
 - 🌐 **[calcom/cal.diy](https://github.com/calcom/cal.diy):** Resolved Booker Column View alignment across complete calendar weeks and recurring occurrence booking limits.
 - ⚡ **[novuhq/novu](https://github.com/novuhq/novu):** Extended multi-channel notification engine with inline email attachments (`cid`) & query tag array parser overflow guards.
 - 🛠️ **[open-webui/open-webui](https://github.com/open-webui/open-webui):** Implemented interactive chat header archive/unarchive state management and dynamic UI notifications.
