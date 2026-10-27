@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### **Civil & Structural Engineer 🏗️ | Full-Stack AI & Open-Source Software Architect ⚡**
+### **Civil & Structural Engineer 🏗️ | Distributed Systems, Blockchain & Autonomous AI Architect ⚡**
 
 [![GitHub followers](https://img.shields.io/github/followers/PINYOPATTANAWASANPORN?style=for-the-badge&logo=github&color=007ACC)](https://github.com/PINYOPATTANAWASANPORN)
 [![Open Source Contributions](https://img.shields.io/badge/Open_Source-75%2B_Contributions_Merged-brightgreen?style=for-the-badge&logo=github)](https://github.com/PINYOPATTANAWASANPORN)
+[![Research Proof](https://img.shields.io/badge/Empirical_Research-Solana_Mainnet_Telemetry-9945FF?style=for-the-badge&logo=solana)](https://github.com/PINYOPATTANAWASANPORN/solana-validator-ordering-research)
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C_Thailand_🇹🇭-orange?style=for-the-badge)](#-contact--connect)
 
 </div>
@@ -14,62 +15,61 @@
 
 ## 🌟 Executive Summary
 
-Hybrid engineering professional combining **Civil & Structural Engineering** domain mastery with **Advanced Full-Stack Software Engineering & AI Systems Architecture**.
+Hybrid engineering professional fusing **Civil & Structural Engineering** physical domain rigor with **High-Performance Distributed Systems, Blockchain Consensus Research, and Autonomous Multi-Agent AI Architectures**.
 
-- 🏗️ **Civil & Structural Engineering:** Reinforced Concrete (RC) & Steel Structural Design, Finite Element Analysis (FEA), BIM Workflows, BOQ Cost Estimation, Structural Optimization & CAD Automation.
-- 💻 **Software & Systems Architecture:** Production SaaS, High-Performance Microservices, Multi-Engine Data Pipelines, Web3 Escrow Infrastructure, and AI Agentic Workflows.
-- 🚀 **Tier-1 Open Source Contributor:** Merged PRs & core fixes across leading developer platforms & engines (*pdfcraft, LiteLLM, BasedHardware, LocalAI, Cal.com, Novu, Open-WebUI, Payload CMS, Directus, ToolJet, Activepieces, Twenty, MergeFi*).
-
----
-
-## 🏗️ Civil & Structural Engineering Core
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Structural_Concrete_Design-RC_Structures-B03A2E?style=flat-square" alt="RC Design"/>
-  <img src="https://img.shields.io/badge/Structural_Steel_Design-Steel_Frames-1F618D?style=flat-square" alt="Steel Design"/>
-  <img src="https://img.shields.io/badge/FEA-Finite_Element_Analysis-27AE60?style=flat-square" alt="FEA"/>
-  <img src="https://img.shields.io/badge/BIM_%26_CAD-Automation_%26_Solvers-D4AC0D?style=flat-square" alt="BIM CAD"/>
-  <img src="https://img.shields.io/badge/BOQ-Cost_Estimation_%26_Analytics-8E44AD?style=flat-square" alt="BOQ"/>
-</div>
-
-- **Structural Design & Analysis:** Safe, efficient structural sizing for Reinforced Concrete (RC) and Structural Steel elements adhering to building codes & engineering standards.
-- **Computational Engineering & Parametric Modeling:** Integrating numerical methods, geometric solvers, and custom CAD scripting for structural integrity verification.
-- **Project Estimation & Engineering Data:** Construction BOQ generation, automated quantity surveying, cost optimization models, and project scheduling pipelines.
+- 🔬 **Empirical Blockchain & Consensus Research:** Live telemetry on 3,890+ Solana Mainnet nodes, banking scheduler mechanics (Agave v4.3.2 vs v2.3.8), and Sealevel parallel execution write-lock contention.
+- 🏗️ **Civil & Structural Engineering:** Reinforced Concrete (RC) & Steel Structural Design, Finite Element Analysis (FEA), BIM Workflows, BOQ Cost Optimization, and Parametric CAD Solvers.
+- 🤖 **Autonomous AI Swarms & Agent Frameworks:** FastMCP server development, LangGraph containerization, multi-tier AI model orchestration, and automated deterministic testing suites.
+- 🚀 **Tier-1 Open Source Contributor:** 75+ merged contributions and security audits across leading global codebases (*BasedHardware, LiteLLM, pdfcraft, Cal.com, Novu, Open-WebUI, Payload CMS, Directus, MergeFi, DripsLens*).
 
 ---
 
-## 💻 Technical & Software Engineering Stack
+## 🔬 Featured Empirical Research & High-Impact Repositories
+
+### ⚡ **[Empirical Research: Inside the Block — How Solana Validators Order Transactions](https://github.com/PINYOPATTANAWASANPORN/solana-validator-ordering-research)**
+*Comprehensive empirical analysis of Solana validator transaction scheduling, live Mainnet node distribution, and account write-lock parallelism.*
+- **Empirical Measurement:** Automated Python RPC telemetry mapping 3,890+ Mainnet nodes across 5 client versions (Agave v4.3.2 dominating at 66.7%).
+- **Block Telemetry:** Real-time analysis of block `#462092040` (369 transactions) disproving naive FIFO assumptions in favor of Sealevel account write-lock segregation and micro-lamport prioritization.
+- **Reproducible Harness:** Open-source measurement tool [`measure_solana_validator_ordering.py`](https://github.com/PINYOPATTANAWASANPORN/solana-validator-ordering-research/blob/main/measure_solana_validator_ordering.py).
+
+### 🤖 **[Strategic AI Systems & Production Agent Frameworks](https://github.com/sungeer)**
+- **FastMCP Production Scaffold ([sungeer/sorceress PR #3](https://github.com/sungeer/sorceress/pull/3)):** Containerized multi-stage Docker deployment, GitHub Actions multi-python matrix CI, and standardized `mcp_config.json` client integrations.
+- **LangGraph Multi-Agent Architecture ([sungeer/graph PR #2](https://github.com/sungeer/graph/pull/2)):** ASGI Starlette containerization, automated Pytest suite, and clean asynchronous agent workflows.
+
+---
+
+## 💻 Technical & Engineering Stack
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 Frontend & UI</h4>
+      <h4>🌐 Distributed & Web3</h4>
       <ul>
-        <li>TypeScript / JavaScript (ESNext)</li>
-        <li>React / Next.js / Vite</li>
-        <li>TailwindCSS / Glassmorphism UI</li>
+        <li>Solana (RPC Telemetry, Sealevel, SPL)</li>
+        <li>Stellar & Soroban Smart Contracts (Rust)</li>
+        <li>EVM (Base L2, Foundry, Solidity Audits)</li>
+        <li>TypeScript / Next.js / Vite</li>
         <li>WAI-ARIA Accessibility Standards</li>
-        <li>WPF / WinUI 3 (.NET 9)</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚡ Backend & Infrastructure</h4>
+      <h4>⚡ Backend & Systems</h4>
       <ul>
-        <li>Node.js / NestJS / Express</li>
-        <li>Python / FastAPI / Pytest</li>
-        <li>C# (.NET 9) / Swift / Go / Rust</li>
-        <li>PostgreSQL / MySQL / SQLite / Redis</li>
-        <li>Soroban / Stellar Web3 Escrow</li>
+        <li>Python (Asyncio, Pytest, FastAPI, NumPy)</li>
+        <li>Rust (Memory safety, PDF & Font Engines)</li>
+        <li>Go / C# (.NET 9) / Swift</li>
+        <li>PostgreSQL / MySQL / Redis / SQLite</li>
+        <li>Docker / Multi-Stage CI/CD Workflows</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 AI & Data Systems</h4>
+      <h4>🏗️ Structural & AI Systems</h4>
       <ul>
-        <li>Google Antigravity Agent SDK</li>
-        <li>Gemini API & Multi-Modal Pipelines</li>
-        <li>High-Speed Web Data Scraping & ETL</li>
-        <li>Docker / CI/CD GitHub Actions</li>
-        <li>Zero-Defect Surgical PR Testing</li>
+        <li>Finite Element Analysis (FEA)</li>
+        <li>RC & Steel Code Sizing / BIM Pipelines</li>
+        <li>FastMCP & Model Context Protocol Tools</li>
+        <li>Autonomous AI Swarm Orchestration</li>
+        <li>Zero-Hallucination Verification Invariants</li>
       </ul>
     </td>
   </tr>
@@ -77,14 +77,14 @@ Hybrid engineering professional combining **Civil & Structural Engineering** dom
 
 ---
 
-## 🏆 Selected Open-Source Contributions & System Architecture
+## 🏆 Selected Tier-1 Open-Source Contributions
 
-- 🦀 **[storytold/pdfcraft](https://github.com/storytold/pdfcraft):** Implemented Unicode font appearance pipeline bundling Inter Regular (`/Identity-H` CMap) in Rust PDF engine to render Central European & international characters in visible signatures ([PR #1679](https://github.com/storytold/pdfcraft/pull/1679)).
+- 🦀 **[storytold/pdfcraft](https://github.com/storytold/pdfcraft):** Implemented Unicode font appearance pipeline bundling Inter Regular (`/Identity-H` CMap) in Rust PDF engine to render international characters in visible signatures ([PR #1679](https://github.com/storytold/pdfcraft/pull/1679)).
 - 🤖 **[BerriAI/litellm](https://github.com/BerriAI/litellm):** Fixed numbered PII token corruption across overlapping Microsoft Presidio entity spans in production LLM gateway ([PR #47024](https://github.com/BerriAI/litellm/pull/47024)).
 - 🎧 **[BasedHardware/omi](https://github.com/BasedHardware/omi):** Wearable AI OS & SDK — engineered audio recorder start failure recovery, WAL memory leak cleanup, and cross-platform language selectors ([PR #20815](https://github.com/BasedHardware/omi/pull/20815), [#21387](https://github.com/BasedHardware/omi/pull/21387), [#22005](https://github.com/BasedHardware/omi/pull/22005)).
 - 🌐 **[calcom/cal.diy](https://github.com/calcom/cal.diy):** Resolved Booker Column View alignment across complete calendar weeks and recurring occurrence booking limits.
 - ⚡ **[novuhq/novu](https://github.com/novuhq/novu):** Extended multi-channel notification engine with inline email attachments (`cid`) & query tag array parser overflow guards.
-- 🛠️ **[open-webui/open-webui](https://github.com/open-webui/open-webui):** Implemented interactive chat header archive/unarchive state management and dynamic UI notifications.
+- 🔍 **[HassanKorey/DripsLens](https://github.com/HassanKorey/DripsLens):** Engineered contributor impact scoring engine (`impact_scorer.py`) merged into core analytics ([PR #47](https://github.com/HassanKorey/DripsLens/pull/47)) and standalone CLI search client ([PR #49](https://github.com/HassanKorey/DripsLens/pull/49)).
 - 📦 **[payloadcms/payload](https://github.com/payloadcms/payload):** Enforced e-commerce unnested variant stock validation in payment initiation workflows.
 - 🗄️ **[directus/directus](https://github.com/directus/directus):** Standardized MySQL `WEEKDAY()` SQL translation parity for cross-database data engine stability.
 - 🤖 **[mudler/LocalAI](https://github.com/mudler/LocalAI):** Implemented application-wide context fallback resolution in `/v1/models/capabilities` (shipped in v4.11.0 release).
@@ -101,19 +101,9 @@ Hybrid engineering professional combining **Civil & Structural Engineering** dom
 
 ---
 
-## 📬 Contact & Professional Connect
+## 📬 Contact & Connect
 
-Available for **Civil Engineering Consulting**, **Software Engineering Projects**, **Full-Stack Application Development**, and **Automated Data Solutions**.
-
-| Channel | Details |
-| :--- | :--- |
-| **Email** | [`pattanawasanporn@gmail.com`](mailto:pattanawasanporn@gmail.com) |
-| **GitHub** | [@PINYOPATTANAWASANPORN](https://github.com/PINYOPATTANAWASANPORN) |
-| **Location** | Bangkok, Thailand 🇹🇭 *(Available for global remote contracts & hybrid engineering)* |
-| **Services** | Civil & Structural Design • SaaS/Web Development • Data Scraping & ETL • AI & Web3 Integration |
-
----
-
-<div align="center">
-  <sub>Building resilient physical structures and high-performance digital systems.</sub>
-</div>
+- 💼 **GitHub:** [@PINYOPATTANAWASANPORN](https://github.com/PINYOPATTANAWASANPORN)
+- 🐦 **X (Twitter):** [@PINYO_PATTANA](https://x.com/PINYO_PATTANA)
+- 📧 **Direct Outreach:** `pattanawasanporn@gmail.com`
+- 📍 **Based In:** Bangkok, Thailand 🇹🇭 (Available for global high-impact engineering & research collaborations)
